@@ -42,7 +42,7 @@ export default class welcomeScreen extends React.Component {
         return(
             <View style={styles.container}>
                 <View style={styles.profileContainer}>
-                    <SantaAnimation/>
+                    <BARTER/>
                     <Text style={styles.title}>BARTER</Text>
                 </View>
                 <View style={styles.buttonContainer}>
