@@ -5,7 +5,7 @@ export default class BARTER extends React.Component {
   render() {
     return (
       <LottieView
-      source={require('../assets/barter.json')}
+      source={require('../barter.json')}
       style={{width:"60%"}}
       autoPlay loop />
     )
